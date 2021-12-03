@@ -1,0 +1,3 @@
+S1,input1.krona
+S2,input2.krona
+S3,input3.krona
